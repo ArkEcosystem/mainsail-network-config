@@ -1,0 +1,359 @@
+{
+    "genesisBlock": {
+        "block": {
+            "version": 1,
+            "timestamp": 1691568978637,
+            "height": 0,
+            "previousBlock": "0000000000000000000000000000000000000000000000000000000000000000",
+            "numberOfTransactions": 15,
+            "totalAmount": "12500000000000000",
+            "totalFee": "0",
+            "reward": "0",
+            "payloadLength": 2567,
+            "payloadHash": "de1dca42d0d83d76fbb82dc3eac932b90c7838e2bb13a7327111e1123d999a54",
+            "generatorPublicKey": "39fe5d13177293b11e52f026ae4ef781619a1549f4f1debaebd8629561a26641",
+            "transactions": [
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 0,
+                    "nonce": "1",
+                    "senderPublicKey": "39fe5d13177293b11e52f026ae4ef781619a1549f4f1debaebd8629561a26641",
+                    "fee": "0",
+                    "amount": "12500000000000000",
+                    "expiration": 0,
+                    "recipientId": "DD8A6mh6aqZMAq47mjeuxXbMBq2HSe67HQ",
+                    "signature": "e9d9d837f1540c089bae74e5b51be2d23fd46ba7556e5ac898cc514b2a9e25ea17000623e649da8cc85649642a52ac39334029a9ab7b8ea5f8fb7bd44bc884dc",
+                    "id": "8b6e3e5a45658d10ae83897e0695a287eeaf605bf91df57bf3246f3da023a07d",
+                    "sequence": 0
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 2,
+                    "nonce": "1",
+                    "senderPublicKey": "f893fbb77048358015231d612f465cb93aee41c48e262ae86b483f2d90087a42",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "validator": {
+                            "username": "genesis_1",
+                            "publicKey": "a3e7a2c6e3a875562c301ce7f3f1a82878dbf4b4db50a9f0ac0880460d86c8492151793151dc2ba912653d7f85d441f9"
+                        }
+                    },
+                    "signature": "23c052d7bd502652ba0d9a7c942e399339a6aa609e734253f92b9bf8200ce6cc5a4511f12fe9d476f67352c8cbffe4d684717d1c039706933b3461571abe0794",
+                    "id": "bd0bc4f3794f975d533bc438cf31471d6ba8a4cc441cf1245210d31d3243a295",
+                    "sequence": 1
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 2,
+                    "nonce": "1",
+                    "senderPublicKey": "7ef117de76ecd236b7ef7cf994aab9b2f12f5d1af7bd15062377ecc8f59aca2a",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "validator": {
+                            "username": "genesis_2",
+                            "publicKey": "8afd02b6b6430a26cbf79dcd1518fcb4162b077dd51076f03ca47f45b7f092bc132e982b9d78aaade6cb48f3460f9230"
+                        }
+                    },
+                    "signature": "b654ec7c7b08412eb19a832ae2a502de8cdc8efb20b0a93d13b6e409e6af1ae8707d5ffe0bbca3bca24c9b524ed9a936de465cb9ee2b069716bd84a26df319e8",
+                    "id": "bd1cf5cf6f2dc765dd8df4f3e1a6decb6a99212442e1d7389ce2485186ae150d",
+                    "sequence": 2
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 2,
+                    "nonce": "1",
+                    "senderPublicKey": "45bf6543f5fc054ac99a36cd89412913577da936beb5e1a19faf825b3dc95d17",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "validator": {
+                            "username": "genesis_3",
+                            "publicKey": "a59b8fb226691fd29fbc1dea68a1c15aa53c72700c2874596aa4587c0ae69a4f4da2aef1136e91d11d53e18d6df11ea1"
+                        }
+                    },
+                    "signature": "685f0f8c5f5e8137664947b77e3d5fd39d863cfc4d8f4532b048c793e35ba1a8821aa62bf923e0b8ab8cbecfdbd58c19d5359082327e9ddbe5e86dfaa51f6882",
+                    "id": "d0e07f1403bed0779764d977e5f42456c680822289b4292d1b0a4b57585e98d5",
+                    "sequence": 3
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 2,
+                    "nonce": "1",
+                    "senderPublicKey": "b9b7a611df8248807fc7bdc93a18b451542de6d902fed580dc2341c149d94a68",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "validator": {
+                            "username": "genesis_4",
+                            "publicKey": "8e9d61e4b3ce3645b7a3e120cf80978dc46a800dbdc01a9ad615126171d8034758eb870ff0b99bdf0380d0251c8a1616"
+                        }
+                    },
+                    "signature": "eb6d4dcbc69c9db20afa83a75be8200a0bbdca18f4f78c5b9ad3869fd6eabb5e71f22cf88242337be14549bda8e8a92140e4f85acfb3a37ac1cfdd8a55b079d9",
+                    "id": "2cb436264a5908832f49f9f753853a6ce34ca60a7eb37e0be444a25997e1d9da",
+                    "sequence": 4
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 2,
+                    "nonce": "1",
+                    "senderPublicKey": "f7bdfcea2556f6372122553ed05985e6ee3c2be9df6b51a7dadd2a0f40818779",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "validator": {
+                            "username": "genesis_5",
+                            "publicKey": "82efcea24fff9b1b8ec4f9a51b13a84d608015c9ef81f9467449006663e3a29ae70355a21dec704bdb777d3af8ec6f25"
+                        }
+                    },
+                    "signature": "5f1e5ba633dc10e62ffcad72428c1cd5ea2c9e85fca1dc31f438fba00cf49389d897a2fdb12601b527d43e2ef3093fb449f4a86fcc051e21cb8abab1d41da457",
+                    "id": "c960d97545183b9f10998645bf3ff78b8ed88f949b2c5a95f7971ce1cf5df9c6",
+                    "sequence": 5
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 2,
+                    "nonce": "1",
+                    "senderPublicKey": "c5128e0265fa21a7dd6ce0a7f09bc716d394a8e6ee3d6de28a05d34b47abe400",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "validator": {
+                            "username": "genesis_6",
+                            "publicKey": "ab83c3122ceff254f7f752579628c6eb2adf80ee26be90ba7fcfbe8cbf869376a6537a5e85e9c80ef0d25304dd64efb5"
+                        }
+                    },
+                    "signature": "e8e838c15953fe634574b2af516b8150e42d58214cfa2f84c777f4847ff37d7162929411fd5ae228d791b73f73d12886200e2bb2b97d3bd0335c1b5cba1c20cb",
+                    "id": "7bcb139e8e27c883d56a65cc329c5fc541cc2be1ce0d6d4feec2c93f395b954c",
+                    "sequence": 6
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 2,
+                    "nonce": "1",
+                    "senderPublicKey": "3bf0b84d1e1d39cab3071866eddaf32746686d44eff6c236d1bbb4bdc51bf3dc",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "validator": {
+                            "username": "genesis_7",
+                            "publicKey": "83108beb38fc85e9caab5f65a511e3da57612fb6ecc2a65e797fb0807bbf7dc01e1913248968a7fb64271635f119a17c"
+                        }
+                    },
+                    "signature": "8d66a73facecde0017235451f2894a15574b4b492fa0acaee0d98c4714a73c177e757c392b03dabfadc918ddc40784e9f933ccbea98ae147eb52eabe6b7091d7",
+                    "id": "9328ad0804cc4845a1bab2d803eb81da2f3664967b628991d8e7fc6b31af000d",
+                    "sequence": 7
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 3,
+                    "nonce": "2",
+                    "senderPublicKey": "f893fbb77048358015231d612f465cb93aee41c48e262ae86b483f2d90087a42",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "unvotes": [],
+                        "votes": [
+                            "f893fbb77048358015231d612f465cb93aee41c48e262ae86b483f2d90087a42"
+                        ]
+                    },
+                    "signature": "e4cbd8b6ff8b4012a069b038f65a90baf5dac62cf07199176cf12dcde1b236c2301845b981ef07390de522a32c9fddd6f5ccfe8a78881aa4d7c8451dfb15c722",
+                    "id": "4aba267b44917116d4806d7a225fc70228d3dbb38cb33c605f3a7bd39de6d54b",
+                    "sequence": 8
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 3,
+                    "nonce": "2",
+                    "senderPublicKey": "7ef117de76ecd236b7ef7cf994aab9b2f12f5d1af7bd15062377ecc8f59aca2a",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "unvotes": [],
+                        "votes": [
+                            "7ef117de76ecd236b7ef7cf994aab9b2f12f5d1af7bd15062377ecc8f59aca2a"
+                        ]
+                    },
+                    "signature": "55dac4932ebecd7a4cd6d6919f0b3cfad99b158bffe40e1bcaacae3c183fe9577c967237336ad180702bc70bec046e7944d3b7d924c4c5559171d7125a6acd03",
+                    "id": "0c1ae686a8c5208cdd11b152b74d907227ad8d5b0a8a09da6148877149c3562d",
+                    "sequence": 9
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 3,
+                    "nonce": "2",
+                    "senderPublicKey": "45bf6543f5fc054ac99a36cd89412913577da936beb5e1a19faf825b3dc95d17",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "unvotes": [],
+                        "votes": [
+                            "45bf6543f5fc054ac99a36cd89412913577da936beb5e1a19faf825b3dc95d17"
+                        ]
+                    },
+                    "signature": "07e5467659a9253bf7e6be29a963fbdf4035a6d5ed397399ae7de472184026c7843135589bc4cc52eb981a062440ed174e60f894c450ea780a43bd6330054379",
+                    "id": "9e3b90f81cfde041744f4573b5e403c8af2cec134727b1f47bbfe88834a10fbd",
+                    "sequence": 10
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 3,
+                    "nonce": "2",
+                    "senderPublicKey": "b9b7a611df8248807fc7bdc93a18b451542de6d902fed580dc2341c149d94a68",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "unvotes": [],
+                        "votes": [
+                            "b9b7a611df8248807fc7bdc93a18b451542de6d902fed580dc2341c149d94a68"
+                        ]
+                    },
+                    "signature": "6c2490886cbc74ecdbd36d7968ebc503245e5e285037438907bb2aeaf371c7e30dfad1b84f96757f1ef941eb710a99b69d0c060cdc0eace4eca1651fbe308c15",
+                    "id": "dbdffa0d8e51f2ecbab48dc056797af8a078ffbb8ba7b3ceb719b921d5121a5a",
+                    "sequence": 11
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 3,
+                    "nonce": "2",
+                    "senderPublicKey": "f7bdfcea2556f6372122553ed05985e6ee3c2be9df6b51a7dadd2a0f40818779",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "unvotes": [],
+                        "votes": [
+                            "f7bdfcea2556f6372122553ed05985e6ee3c2be9df6b51a7dadd2a0f40818779"
+                        ]
+                    },
+                    "signature": "b484e5c7199341f71dafd7e9747d9ead9708c60f7319ed0ad1662986d9c42b5f68c8e48f49f9c9c0ea644e43baba7371955b8f8485e1b8cbecc76368f69a9850",
+                    "id": "419345c331e56803e5b8dab6be4fbe8f6f20735391aebb3580c21cc8bfc083e7",
+                    "sequence": 12
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 3,
+                    "nonce": "2",
+                    "senderPublicKey": "c5128e0265fa21a7dd6ce0a7f09bc716d394a8e6ee3d6de28a05d34b47abe400",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "unvotes": [],
+                        "votes": [
+                            "c5128e0265fa21a7dd6ce0a7f09bc716d394a8e6ee3d6de28a05d34b47abe400"
+                        ]
+                    },
+                    "signature": "1e674601b473e19d98057b294cab4e0816e9c7b64168fc2c8da23e2373529fe0bb7a4c898a7581ceeff22af7b1a505db0844abdd88acc2933740f916926a118c",
+                    "id": "d7556b67774cde6334b3b506a04dfc59f6e8b367edb2fa4104d6e386213311cf",
+                    "sequence": 13
+                },
+                {
+                    "version": 1,
+                    "network": 30,
+                    "typeGroup": 1,
+                    "type": 3,
+                    "nonce": "2",
+                    "senderPublicKey": "3bf0b84d1e1d39cab3071866eddaf32746686d44eff6c236d1bbb4bdc51bf3dc",
+                    "fee": "0",
+                    "amount": "0",
+                    "asset": {
+                        "unvotes": [],
+                        "votes": [
+                            "3bf0b84d1e1d39cab3071866eddaf32746686d44eff6c236d1bbb4bdc51bf3dc"
+                        ]
+                    },
+                    "signature": "4450bf7657c3c1c5ea4270a71fd18d50c492c05b6e97de70d1e10125039d59d107848a46244cdfee61e5c434b1c7e988d1e0c7852cea0bf7bdcf4c87f9a036fa",
+                    "id": "30f7c986eaf8e9b1111c9abdb2947501e481fcb18edf20cdbac52bab378eff5d",
+                    "sequence": 14
+                }
+            ],
+            "id": "ad1b1faae6ebfe0f2e40e346ac63ff043742fc88f29ebb6b931d31d5b73b5849"
+        },
+        "commit": {
+            "blockId": "ad1b1faae6ebfe0f2e40e346ac63ff043742fc88f29ebb6b931d31d5b73b5849",
+            "height": 0,
+            "round": 1,
+            "signature": "883cae1e5f5ae2f51cfa710c98be813bd4838259541d2f08741e98869f1870cb9ef07b75ec1104a7cf6fbe244906c9d20318c187f5b13ffb58cb436f315d00f1cb9aa84cd88060359af76973171d6f545f60ccfe5f5a4fae75fc4af329c3e5a8",
+            "validators": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+            ]
+        },
+        "serialized": "ad1b1faae6ebfe0f2e40e346ac63ff043742fc88f29ebb6b931d31d5b73b58490000000001000000883cae1e5f5ae2f51cfa710c98be813bd4838259541d2f08741e98869f1870cb9ef07b75ec1104a7cf6fbe244906c9d20318c187f5b13ffb58cb436f315d00f1cb9aa84cd88060359af76973171d6f545f60ccfe5f5a4fae75fc4af329c3e5a8077f0000000000000001cd3a5ed989010000000000000000000000000000000000000000000000000000000000000000000000000f0000000040b10baf682c0000000000000000000000000000000000070a0000de1dca42d0d83d76fbb82dc3eac932b90c7838e2bb13a7327111e1123d999a5439fe5d13177293b11e52f026ae4ef781619a1549f4f1debaebd8629561a266419b000000ff011e010000000000010000000000000039fe5d13177293b11e52f026ae4ef781619a1549f4f1debaebd8629561a266410000000000000000000040b10baf682c00000000001e5793900158762171150b9ccc446adb4fd2ed81cde9d9d837f1540c089bae74e5b51be2d23fd46ba7556e5ac898cc514b2a9e25ea17000623e649da8cc85649642a52ac39334029a9ab7b8ea5f8fb7bd44bc884dcb4000000ff011e0100000002000100000000000000f893fbb77048358015231d612f465cb93aee41c48e262ae86b483f2d90087a420000000000000000000967656e657369735f31a3e7a2c6e3a875562c301ce7f3f1a82878dbf4b4db50a9f0ac0880460d86c8492151793151dc2ba912653d7f85d441f923c052d7bd502652ba0d9a7c942e399339a6aa609e734253f92b9bf8200ce6cc5a4511f12fe9d476f67352c8cbffe4d684717d1c039706933b3461571abe0794b4000000ff011e01000000020001000000000000007ef117de76ecd236b7ef7cf994aab9b2f12f5d1af7bd15062377ecc8f59aca2a0000000000000000000967656e657369735f328afd02b6b6430a26cbf79dcd1518fcb4162b077dd51076f03ca47f45b7f092bc132e982b9d78aaade6cb48f3460f9230b654ec7c7b08412eb19a832ae2a502de8cdc8efb20b0a93d13b6e409e6af1ae8707d5ffe0bbca3bca24c9b524ed9a936de465cb9ee2b069716bd84a26df319e8b4000000ff011e010000000200010000000000000045bf6543f5fc054ac99a36cd89412913577da936beb5e1a19faf825b3dc95d170000000000000000000967656e657369735f33a59b8fb226691fd29fbc1dea68a1c15aa53c72700c2874596aa4587c0ae69a4f4da2aef1136e91d11d53e18d6df11ea1685f0f8c5f5e8137664947b77e3d5fd39d863cfc4d8f4532b048c793e35ba1a8821aa62bf923e0b8ab8cbecfdbd58c19d5359082327e9ddbe5e86dfaa51f6882b4000000ff011e0100000002000100000000000000b9b7a611df8248807fc7bdc93a18b451542de6d902fed580dc2341c149d94a680000000000000000000967656e657369735f348e9d61e4b3ce3645b7a3e120cf80978dc46a800dbdc01a9ad615126171d8034758eb870ff0b99bdf0380d0251c8a1616eb6d4dcbc69c9db20afa83a75be8200a0bbdca18f4f78c5b9ad3869fd6eabb5e71f22cf88242337be14549bda8e8a92140e4f85acfb3a37ac1cfdd8a55b079d9b4000000ff011e0100000002000100000000000000f7bdfcea2556f6372122553ed05985e6ee3c2be9df6b51a7dadd2a0f408187790000000000000000000967656e657369735f3582efcea24fff9b1b8ec4f9a51b13a84d608015c9ef81f9467449006663e3a29ae70355a21dec704bdb777d3af8ec6f255f1e5ba633dc10e62ffcad72428c1cd5ea2c9e85fca1dc31f438fba00cf49389d897a2fdb12601b527d43e2ef3093fb449f4a86fcc051e21cb8abab1d41da457b4000000ff011e0100000002000100000000000000c5128e0265fa21a7dd6ce0a7f09bc716d394a8e6ee3d6de28a05d34b47abe4000000000000000000000967656e657369735f36ab83c3122ceff254f7f752579628c6eb2adf80ee26be90ba7fcfbe8cbf869376a6537a5e85e9c80ef0d25304dd64efb5e8e838c15953fe634574b2af516b8150e42d58214cfa2f84c777f4847ff37d7162929411fd5ae228d791b73f73d12886200e2bb2b97d3bd0335c1b5cba1c20cbb4000000ff011e01000000020001000000000000003bf0b84d1e1d39cab3071866eddaf32746686d44eff6c236d1bbb4bdc51bf3dc0000000000000000000967656e657369735f3783108beb38fc85e9caab5f65a511e3da57612fb6ecc2a65e797fb0807bbf7dc01e1913248968a7fb64271635f119a17c8d66a73facecde0017235451f2894a15574b4b492fa0acaee0d98c4714a73c177e757c392b03dabfadc918ddc40784e9f933ccbea98ae147eb52eabe6b7091d79c000000ff011e0100000003000200000000000000f893fbb77048358015231d612f465cb93aee41c48e262ae86b483f2d90087a4200000000000000000001f893fbb77048358015231d612f465cb93aee41c48e262ae86b483f2d90087a4200e4cbd8b6ff8b4012a069b038f65a90baf5dac62cf07199176cf12dcde1b236c2301845b981ef07390de522a32c9fddd6f5ccfe8a78881aa4d7c8451dfb15c7229c000000ff011e01000000030002000000000000007ef117de76ecd236b7ef7cf994aab9b2f12f5d1af7bd15062377ecc8f59aca2a000000000000000000017ef117de76ecd236b7ef7cf994aab9b2f12f5d1af7bd15062377ecc8f59aca2a0055dac4932ebecd7a4cd6d6919f0b3cfad99b158bffe40e1bcaacae3c183fe9577c967237336ad180702bc70bec046e7944d3b7d924c4c5559171d7125a6acd039c000000ff011e010000000300020000000000000045bf6543f5fc054ac99a36cd89412913577da936beb5e1a19faf825b3dc95d170000000000000000000145bf6543f5fc054ac99a36cd89412913577da936beb5e1a19faf825b3dc95d170007e5467659a9253bf7e6be29a963fbdf4035a6d5ed397399ae7de472184026c7843135589bc4cc52eb981a062440ed174e60f894c450ea780a43bd63300543799c000000ff011e0100000003000200000000000000b9b7a611df8248807fc7bdc93a18b451542de6d902fed580dc2341c149d94a6800000000000000000001b9b7a611df8248807fc7bdc93a18b451542de6d902fed580dc2341c149d94a68006c2490886cbc74ecdbd36d7968ebc503245e5e285037438907bb2aeaf371c7e30dfad1b84f96757f1ef941eb710a99b69d0c060cdc0eace4eca1651fbe308c159c000000ff011e0100000003000200000000000000f7bdfcea2556f6372122553ed05985e6ee3c2be9df6b51a7dadd2a0f4081877900000000000000000001f7bdfcea2556f6372122553ed05985e6ee3c2be9df6b51a7dadd2a0f4081877900b484e5c7199341f71dafd7e9747d9ead9708c60f7319ed0ad1662986d9c42b5f68c8e48f49f9c9c0ea644e43baba7371955b8f8485e1b8cbecc76368f69a98509c000000ff011e0100000003000200000000000000c5128e0265fa21a7dd6ce0a7f09bc716d394a8e6ee3d6de28a05d34b47abe40000000000000000000001c5128e0265fa21a7dd6ce0a7f09bc716d394a8e6ee3d6de28a05d34b47abe400001e674601b473e19d98057b294cab4e0816e9c7b64168fc2c8da23e2373529fe0bb7a4c898a7581ceeff22af7b1a505db0844abdd88acc2933740f916926a118c9c000000ff011e01000000030002000000000000003bf0b84d1e1d39cab3071866eddaf32746686d44eff6c236d1bbb4bdc51bf3dc000000000000000000013bf0b84d1e1d39cab3071866eddaf32746686d44eff6c236d1bbb4bdc51bf3dc004450bf7657c3c1c5ea4270a71fd18d50c492c05b6e97de70d1e10125039d59d107848a46244cdfee61e5c434b1c7e988d1e0c7852cea0bf7bdcf4c87f9a036fa"
+    },
+    "milestones": [
+        {
+            "activeValidators": 7,
+            "address": {
+                "base58": 30
+            },
+            "block": {
+                "maxPayload": 2097152,
+                "maxTransactions": 150,
+                "version": 1
+            },
+            "blockTime": 8000,
+            "epoch": "2023-08-09T00:00:00.000Z",
+            "height": 0,
+            "multiPaymentLimit": 256,
+            "reward": "0",
+            "satoshi": {
+                "decimals": 8,
+                "denomination": 100000000
+            },
+            "stageTimeout": 2000,
+            "stageTimeoutIncrease": 2000,
+            "vendorFieldLength": 255
+        },
+        {
+            "height": 75600,
+            "reward": "200000000"
+        }
+    ],
+    "network": {
+        "client": {
+            "explorer": "",
+            "symbol": "TѦ",
+            "token": "ARK"
+        },
+        "messagePrefix": "testnet message:\n",
+        "name": "testnet",
+        "nethash": "de1dca42d0d83d76fbb82dc3eac932b90c7838e2bb13a7327111e1123d999a54",
+        "pubKeyHash": 30,
+        "slip44": 1,
+        "wif": 186
+    }
+}
