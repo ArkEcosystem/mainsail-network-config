@@ -3439,15 +3439,15 @@
 			"stageTimeout": 2000,
 			"stageTimeoutIncrease": 2000,
 			"vendorFieldLength": 255
-		  },
-		  {
+		},
+		{
 			"height": 1,
 			"activeValidators": 53
-		  },
-		  {
+		},
+		{
 			"height": 75600,
 			"reward": "200000000"
-		  }
+		}
 	],
 	"network": {
 		"client": {
