@@ -115,6 +115,9 @@
 			"package": "@mainsail/proposer"
 		},
 		{
+			"package": "@mainsail/consensus-storage"
+		},
+		{
 			"package": "@mainsail/consensus"
 		},
 		{
