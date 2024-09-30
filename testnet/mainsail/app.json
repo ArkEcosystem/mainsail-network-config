@@ -34,12 +34,6 @@
             "package": "@mainsail/crypto-block"
         },
         {
-            "package": "@mainsail/fees"
-        },
-        {
-            "package": "@mainsail/fees-static"
-        },
-        {
             "package": "@mainsail/evm-service"
         },
         {
@@ -50,30 +44,6 @@
         },
         {
             "package": "@mainsail/crypto-transaction"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-username-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-username-resignation"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-validator-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-validator-resignation"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-multi-payment"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-multi-signature-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-transfer"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-vote"
         },
         {
             "package": "@mainsail/crypto-transaction-evm-call"
@@ -112,13 +82,10 @@
             "package": "@mainsail/processor"
         },
         {
-            "package": "@mainsail/validator-set-vote-weighted"
+            "package": "@mainsail/evm-consensus"
         },
         {
             "package": "@mainsail/validator"
-        },
-        {
-            "package": "@mainsail/proposer"
         },
         {
             "package": "@mainsail/consensus-storage"
@@ -174,31 +141,10 @@
             "package": "@mainsail/crypto-block"
         },
         {
-            "package": "@mainsail/fees"
-        },
-        {
-            "package": "@mainsail/fees-static"
-        },
-        {
             "package": "@mainsail/crypto-transaction"
         },
         {
-            "package": "@mainsail/crypto-transaction-validator-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-validator-resignation"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-multi-payment"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-multi-signature-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-transfer"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-vote"
+            "package": "@mainsail/crypto-transaction-evm-call"
         }
     ],
     "transaction-pool": [
@@ -236,12 +182,6 @@
             "package": "@mainsail/serializer"
         },
         {
-            "package": "@mainsail/fees"
-        },
-        {
-            "package": "@mainsail/fees-static"
-        },
-        {
             "package": "@mainsail/evm-service"
         },
         {
@@ -252,30 +192,6 @@
         },
         {
             "package": "@mainsail/crypto-transaction"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-username-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-username-resignation"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-validator-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-validator-resignation"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-multi-payment"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-multi-signature-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-transfer"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-vote"
         },
         {
             "package": "@mainsail/crypto-transaction-evm-call"
@@ -340,40 +256,10 @@
             "package": "@mainsail/serializer"
         },
         {
-            "package": "@mainsail/fees"
-        },
-        {
-            "package": "@mainsail/fees-static"
-        },
-        {
             "package": "@mainsail/crypto-block"
         },
         {
             "package": "@mainsail/crypto-transaction"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-username-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-username-resignation"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-validator-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-validator-resignation"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-multi-payment"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-multi-signature-registration"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-transfer"
-        },
-        {
-            "package": "@mainsail/crypto-transaction-vote"
         },
         {
             "package": "@mainsail/crypto-transaction-evm-call"
