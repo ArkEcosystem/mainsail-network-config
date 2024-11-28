@@ -200,13 +200,7 @@
             "package": "@mainsail/transactions"
         },
         {
-            "package": "@mainsail/state",
-            "options": {
-                "snapshots": {
-                    "enabled": false,
-                    "skipUnknownAttributes": true
-                }
-            }
+            "package": "@mainsail/state"
         },
         {
             "package": "@mainsail/transaction-pool-service"
@@ -259,6 +253,12 @@
             "package": "@mainsail/crypto-block"
         },
         {
+            "package": "@mainsail/crypto-messages"
+        },
+        {
+            "package": "@mainsail/crypto-commit"
+        },
+        {
             "package": "@mainsail/crypto-transaction"
         },
         {
@@ -268,13 +268,10 @@
             "package": "@mainsail/transactions"
         },
         {
-            "package": "@mainsail/state",
-            "options": {
-                "snapshots": {
-                    "enabled": false,
-                    "skipUnknownAttributes": true
-                }
-            }
+            "package": "@mainsail/state"
+        },
+        {
+            "package": "@mainsail/database"
         },
         {
             "package": "@mainsail/evm-service"
