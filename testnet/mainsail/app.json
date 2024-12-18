@@ -40,9 +40,6 @@
             "package": "@mainsail/evm-gas-fee"
         },
         {
-            "package": "@mainsail/evm-development"
-        },
-        {
             "package": "@mainsail/crypto-transaction"
         },
         {
@@ -53,6 +50,9 @@
         },
         {
             "package": "@mainsail/logger-pino"
+        },
+        {
+            "package": "@mainsail/snapshot-legacy-importer"
         },
         {
             "package": "@mainsail/state"
