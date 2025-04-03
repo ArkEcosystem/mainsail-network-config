@@ -197,6 +197,9 @@
             "package": "@mainsail/crypto-block"
         },
         {
+            "package": "@mainsail/crypto-commit"
+        },
+        {
             "package": "@mainsail/crypto-transaction"
         },
         {
@@ -280,10 +283,10 @@
             "package": "@mainsail/state"
         },
         {
-            "package": "@mainsail/database"
+            "package": "@mainsail/evm-service"
         },
         {
-            "package": "@mainsail/evm-service"
+            "package": "@mainsail/database"
         },
         {
             "package": "@mainsail/evm-state"
