@@ -27,10 +27,6 @@
 		{
 			"ip": "167.235.232.45",
 			"port": 4000
-		},
-		{
-			"ip": "49.13.30.19",
-			"port": 4000
 		}
 	],
 	"sources": ["https://raw.githubusercontent.com/ArkEcosystem/mainsail-network-config/main/testnet/mainsail/peers-raw.json"]
