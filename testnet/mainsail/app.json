@@ -65,13 +65,13 @@
 		},
 		{
 		"package": "@mainsail/api-database",
-		"options": {
-			"database": {
-			"extra": {
-					"options": "-c statement_timeout=15000ms"
+			"options": {
+				"database": {
+				"extra": {
+						"options": "-c statement_timeout=15000ms"
+					}
 				}
 			}
-		}
 		},
 		{
 			"package": "@mainsail/api-sync"
