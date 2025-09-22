@@ -55,6 +55,9 @@
 			"package": "@mainsail/logger-pino"
 		},
 		{
+			"package": "@mainsail/networking-ntp"
+		},
+		{
 			"package": "@mainsail/snapshot-legacy-importer"
 		},
 		{
@@ -64,14 +67,7 @@
 			"package": "@mainsail/database"
 		},
 		{
-		"package": "@mainsail/api-database",
-			"options": {
-				"database": {
-				"extra": {
-						"options": "-c statement_timeout=15000ms"
-					}
-				}
-			}
+			"package": "@mainsail/api-database"
 		},
 		{
 			"package": "@mainsail/api-sync"
