@@ -46,9 +46,6 @@
 			"package": "@mainsail/crypto-transaction"
 		},
 		{
-			"package": "@mainsail/crypto-transaction-evm-call"
-		},
-		{
 			"package": "@mainsail/crypto-worker"
 		},
 		{
@@ -117,9 +114,6 @@
 	],
 	"crypto-worker": [
 		{
-			"package": "@mainsail/logger-pino"
-		},
-		{
 			"package": "@mainsail/validation"
 		},
 		{
@@ -157,15 +151,9 @@
 		},
 		{
 			"package": "@mainsail/crypto-transaction"
-		},
-		{
-			"package": "@mainsail/crypto-transaction-evm-call"
 		}
 	],
 	"transaction-pool": [
-		{
-			"package": "@mainsail/logger-pino"
-		},
 		{
 			"package": "@mainsail/validation"
 		},
@@ -215,9 +203,6 @@
 			"package": "@mainsail/crypto-transaction"
 		},
 		{
-			"package": "@mainsail/crypto-transaction-evm-call"
-		},
-		{
 			"package": "@mainsail/transactions"
 		},
 		{
@@ -237,9 +222,6 @@
 		}
 	],
 	"evm-api": [
-		{
-			"package": "@mainsail/logger-pino"
-		},
 		{
 			"package": "@mainsail/validation"
 		},
@@ -284,9 +266,6 @@
 		},
 		{
 			"package": "@mainsail/crypto-transaction"
-		},
-		{
-			"package": "@mainsail/crypto-transaction-evm-call"
 		},
 		{
 			"package": "@mainsail/transactions"
