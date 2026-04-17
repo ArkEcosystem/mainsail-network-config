@@ -19,7 +19,10 @@
 			"package": "@mainsail/crypto-key-pair-ecdsa"
 		},
 		{
-			"package": "@mainsail/crypto-consensus-bls12-381"
+			"package": "@mainsail/crypto-signature-bls12-381"
+		},
+		{
+			"package": "@mainsail/crypto-key-pair-bls12-381"
 		},
 		{
 			"package": "@mainsail/crypto-address-base58"
@@ -74,6 +77,9 @@
 		},
 		{
 			"package": "@mainsail/transaction-pool-worker"
+		},
+		{
+			"package": "@mainsail/crypto-proposal"
 		},
 		{
 			"package": "@mainsail/crypto-messages"
@@ -132,7 +138,10 @@
 			"package": "@mainsail/crypto-key-pair-ecdsa"
 		},
 		{
-			"package": "@mainsail/crypto-consensus-bls12-381"
+			"package": "@mainsail/crypto-signature-bls12-381"
+		},
+		{
+			"package": "@mainsail/crypto-key-pair-bls12-381"
 		},
 		{
 			"package": "@mainsail/crypto-address-base58"
@@ -173,7 +182,10 @@
 			"package": "@mainsail/crypto-key-pair-ecdsa"
 		},
 		{
-			"package": "@mainsail/crypto-consensus-bls12-381"
+			"package": "@mainsail/crypto-signature-bls12-381"
+		},
+		{
+			"package": "@mainsail/crypto-key-pair-bls12-381"
 		},
 		{
 			"package": "@mainsail/crypto-address-base58"
@@ -241,7 +253,10 @@
 			"package": "@mainsail/crypto-key-pair-ecdsa"
 		},
 		{
-			"package": "@mainsail/crypto-consensus-bls12-381"
+			"package": "@mainsail/crypto-signature-bls12-381"
+		},
+		{
+			"package": "@mainsail/crypto-key-pair-bls12-381"
 		},
 		{
 			"package": "@mainsail/crypto-address-base58"
@@ -257,6 +272,9 @@
 		},
 		{
 			"package": "@mainsail/crypto-block"
+		},
+		{
+			"package": "@mainsail/crypto-proposal"
 		},
 		{
 			"package": "@mainsail/crypto-messages"
